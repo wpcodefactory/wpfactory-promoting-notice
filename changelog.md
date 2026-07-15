@@ -8,6 +8,10 @@
 * `Fixed` for any bug fixes.
 * `Security` in case of vulnerabilities
 
+## Version 1.0.7 (15/07/2026)
+### Changed
+* Style of some elements.
+
 ## Version 1.0.6 (15/07/2026)
 ### Changed
 * Style of some elements.

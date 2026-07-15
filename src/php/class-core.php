@@ -2,7 +2,7 @@
 /**
  * WPFactory Promoting Notice - Functions.
  *
- * @version 1.0.6
+ * @version 1.0.7
  * @since   1.0.0
  * @author  WPFactory
  */
@@ -30,7 +30,7 @@ if ( ! class_exists( 'WPFactory\Promoting_Notice' ) ) {
 		 *
 		 * @var string
 		 */
-		private $version = '1.0.6';
+		private $version = '1.0.7';
 
 		/**
 		 * set_args.
@@ -228,7 +228,7 @@ if ( ! class_exists( 'WPFactory\Promoting_Notice' ) ) {
 		/**
 		 * create_style.
 		 *
-		 * @version 1.0.6
+		 * @version 1.0.7
 		 * @since   1.0.0
 		 */
 		function create_style() {
@@ -274,7 +274,7 @@ if ( ! class_exists( 'WPFactory\Promoting_Notice' ) ) {
 
 				<?php echo esc_attr($notice_selector); ?>
 				.wpfactory-pan-btn-icon {
-					position:relative;top:3px;margin:0 2px 0 -2px;
+					position:relative;margin:0 2px 0 -2px;vertical-align: middle;top: 5px;
 				<?php echo esc_attr($args['template_variables']['%btn_icon_style%']); ?>
 				}
 
