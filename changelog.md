@@ -1,4 +1,17 @@
-# WPFactory Promoting Notice change log
+# Changelog
+
+**Types of changes**
+* `Added` for new features.
+* `Changed` for changes in existing functionality.
+* `Deprecated` for soon-to-be removed features.
+* `Removed` for now removed features.
+* `Fixed` for any bug fixes.
+* `Security` in case of vulnerabilities
+
+## Version 1.0.6 (15/07/2026)
+### Changed
+* Style of some elements.
+* The default style from parameters to real style
 
 ## Version 1.0.5 (07/06/2021)
 * Remove default value from 'url_requirements => params 
